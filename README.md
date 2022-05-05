@@ -1,5 +1,6 @@
 # ProjectCleanEarth
-A backend only project that demonstrates how to use paystack api to recieve payment
+A backend only project that demonstrates how to use paystack api to recieve payment for ProjectCleanEarth
+
 
 # To use
 >run 'npm install' in your terminal
